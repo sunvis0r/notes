@@ -41,7 +41,7 @@ $ Registry: HKEY_CLASSES_ROOT\CLSID\{GUID}
     The → Windows/registry/tree-structure/default-value[default value] ☰
     `InfoTip` ☰
     `LocalizedString` ☰ In most cases, `LocalizedString` matches the → development/regular-expressions[regular expression] `^@([^,]+),- ?(\d+)(#immutable1)?$`.
-    `System.ApplicationName ☰ The → Windows/control-panel#control-panel-canonical-name[canonical name] of a → Windows/control-panel#control-panel-item[control panel item].
+    `System.ApplicationName` ☰ The → Windows/control-panel#control-panel-canonical-name[canonical name] of a → Windows/control-panel#control-panel-item[control panel item].
     `System.ControlPanel.Category` ☰
     `System.ControlPanel.EnableInSafeMode` ☰
     `System.Software.TasksFileUrl` ☰
